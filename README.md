@@ -1,2 +1,2 @@
 # Multiprocessor-Structures
-laboratoryfor the Multiprocessor Structures course @ ACS, UPB 2020
+Laboratoryfor the Multiprocessor Structures course @ ACS, UPB 2020
